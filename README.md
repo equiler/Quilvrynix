@@ -10,4 +10,3 @@ Quilvrynix is a simple chat app designed for easy communication, connecting user
 
 
 ![](https://img.shields.io/github/stars/equiler/Quilvrynix)
-![](https://img.shields.io/github/v/release/equiler/Quilvrynix)
